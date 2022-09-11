@@ -15,3 +15,9 @@
     height: 600px;
     background-image: url("imagenes/PERSONA.jpg");
 }
+#contacto ul{
+    width: 690;
+    position: relative;
+    left: 380px;
+    top: 40px;
+}
