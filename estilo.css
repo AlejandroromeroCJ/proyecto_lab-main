@@ -21,3 +21,11 @@
     left: 380px;
     top: 40px;
 }
+#contacto ul li{
+    width: 100px;
+    float: left;
+    text-align: center;
+    list-style-type: none;
+    color: rgb(255, 0, 0);
+    font-size: 30px;
+}
