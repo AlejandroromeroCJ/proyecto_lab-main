@@ -13,6 +13,7 @@
     border: 1px solid green; 
     width: 250px;    
     height: 600px;
+    background-image: url("imagenes/PERSONA.jpg");
 }
 #contacto ul{
     width: 690;
